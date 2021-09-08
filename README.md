@@ -53,3 +53,4 @@ Research the documentation on AWS/Python for python boto3 package to create and 
   Delete the bucket using python-boto3.**
 HINT: install and import boto3 - works with python3 and above
 ```
+![aws-and-boto3](https://user-images.githubusercontent.com/88166874/132477783-f062f303-674a-449f-b67f-63f3486d8e84.png)
